@@ -13,6 +13,7 @@ const seed = async () => {
     {title: "Brave New World"},
     {title: "The Great Gatsby"}
   ]
+  
   // Add an additonal 10 books 
   // for (let i=0; i < 10; i ++) {
   //   books.push({ title: `Book ${i}` });

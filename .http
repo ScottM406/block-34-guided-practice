@@ -14,10 +14,10 @@ POST {{host}}/books/
 Content-Type: application/json
 
 {
-  "title": "New Book"
+  "title": "The Island"
 }
 
-### Incorrectly a new book
+### Incorrectly add a new book
 POST {{host}}/books/
 Content-Type: application/json
 
@@ -30,7 +30,7 @@ PUT {{host}}/books/3
 Content-Type: application/json
 
 {
-  "title": "Updated Book"
+  "title": "The Count of Monte Cristo"
 }
 
 ### Update nonexistent book
